@@ -19,6 +19,6 @@ Estou atualmente estudando Front-end e já tenho uma base bem solida na área, s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-olive&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=daniel-olive&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=daniel-olive&icon=0&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=daniel-olive&label=Visualizac%C3%B5es%20de%20perfil&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)https://visitcount.itsvg.in/api?id=daniel-olive&label=Visualizac%C3%B5es%20de%20perfil&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
