@@ -1,8 +1,5 @@
 # 💫  Sobre mim:
 🎓 Cursando Engenharia de Software no Centro Universitário UniFatecie<br>🔭 Atualmente estou trabalhando em projeto pessoal<br>🌱 Estou aprendendo atualmente Python<br>👨‍💻 Todos os meus projetos estão disponíveis em https://danieldev.com.br/<br>📫 Como entrar em contato comigo daniel.olive.dev@gmail.com<br>
-Aqui está uma versão refinada do texto para um tom ainda mais profissional e impactante:
-
----
 
 Sou estudante dedicado do 4º período de Engenharia de Software no Centro Universitário UNIFATECIE, com uma trajetória na área de TI que começou em 2012. Minha experiência inclui manutenção de microcomputadores e gestão de infraestrutura de redes de internet, o que me proporcionou uma base técnica sólida e reforçou minha paixão pela resolução de problemas complexos.
 
