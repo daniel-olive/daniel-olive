@@ -1,11 +1,24 @@
 # 💫  Sobre mim:
 🎓 Cursando Engenharia de Software no Centro Universitário UniFatecie<br>🔭 Atualmente estou trabalhando em projeto pessoal<br>🌱 Estou aprendendo atualmente Python<br>👨‍💻 Todos os meus projetos estão disponíveis em https://danieldev.com.br/<br>📫 Como entrar em contato comigo daniel.olive.dev@gmail.com<br>
 
-Sou estudante dedicado do 4º período de Engenharia de Software no Centro Universitário UNIFATECIE, com uma trajetória na área de TI que começou em 2012. Minha experiência inclui manutenção de microcomputadores e gestão de infraestrutura de redes de internet, o que me proporcionou uma base técnica sólida e reforçou minha paixão pela resolução de problemas complexos.
+Desenvolvedor de Software e estudante do 5º período de Engenharia de Software no Centro Universitário UNIFATECIE, com uma trajetória em tecnologia que começou em 2012. Minha jornada profissional foi moldada pela paixão em resolver problemas, iniciada em minha atuação como Técnico de Informática, onde adquiri uma base sólida em infraestrutura de redes e manutenção.
 
-Tenho um forte compromisso com o aprendizado contínuo, com foco especial no desenvolvimento web. Sou motivado por soluções práticas e pela busca de uma compreensão profunda de cada detalhe técnico, aplicando esse conhecimento de maneira eficiente e estratégica. Valorizo a clareza e a organização, tanto no código quanto na comunicação, entendendo que essas qualidades são fundamentais para alcançar resultados excepcionais.
+Essa experiência me deu uma habilidade apurada para diagnosticar desafios e, em 2020, decidi canalizar essa competência para a criação de soluções, mergulhando de cabeça no universo do desenvolvimento de software. Acredito que a clareza e a organização, tanto no código quanto na comunicação, são essenciais para alcançar resultados de excelência. Por isso, sou comprometido com o aprendizado contínuo, buscando entender cada detalhe para aplicar o conhecimento de forma prática e eficiente.
 
-Sempre em busca de superar desafios, estou determinado a evoluir constantemente minhas habilidades e contribuir para projetos que tragam impacto positivo e inovação. 🚀
+Essa filosofia me guiou na criação do meu principal projeto, o Facilito Catálogo, um SaaS (Software as a Service) que idealizei e desenvolvi do zero, validando minha capacidade de gerenciar um projeto completo.
+
+🔗 Link do Projeto: https://facilitocatalogo.com.br
+
+Neste projeto, fui responsável por todo o ciclo de vida do produto, aplicando minhas habilidades em:
+
+Back-end: Arquitetura com Node.js e banco de dados PostgreSQL gerenciado com Prisma.
+
+Front-end: Interface moderna e responsiva com React.js, TypeScript e Tailwind CSS.
+
+Infraestrutura: Implantação e gerenciamento em nuvem na Digital Ocean com NGINX.
+
+Estou sempre em busca de superar desafios e evoluir. Busco uma oportunidade onde eu possa colaborar, contribuir com minha experiência única — que une a base da infraestrutura de TI com o desenvolvimento de software moderno — e ajudar a construir produtos inovadores. Vamos nos conectar!
+
 
 
 ## 🌐 Redes sociais:
