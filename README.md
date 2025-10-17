@@ -1,4 +1,7 @@
 # 💫  Sobre mim:
+
+## Desenvolvedor Full-Stack | Criador do SaaS Facilito Catálogo | React, TypeScript & Node.js
+
 🎓 Cursando Engenharia de Software no Centro Universitário UniFatecie<br>🔭 Atualmente estou trabalhando em projeto pessoal<br>🌱 Estou aprendendo atualmente Python<br>👨‍💻 Todos os meus projetos estão disponíveis em https://danieldev.com.br/<br>📫 Como entrar em contato comigo daniel.olive.dev@gmail.com<br>
 
 Desenvolvedor de Software e estudante do 5º período de Engenharia de Software no Centro Universitário UNIFATECIE, com uma trajetória em tecnologia que começou em 2012. Minha jornada profissional foi moldada pela paixão em resolver problemas, iniciada em minha atuação como Técnico de Informática, onde adquiri uma base sólida em infraestrutura de redes e manutenção.
@@ -7,7 +10,7 @@ Essa experiência me deu uma habilidade apurada para diagnosticar desafios e, em
 
 Essa filosofia me guiou na criação do meu principal projeto, o Facilito Catálogo, um SaaS (Software as a Service) que idealizei e desenvolvi do zero, validando minha capacidade de gerenciar um projeto completo.
 
-🔗 Link do Projeto: https://facilitocatalogo.com.br
+🔗 Link do SaaS Facilito Catálogo: https://facilitocatalogo.com.br
 
 Neste projeto, fui responsável por todo o ciclo de vida do produto, aplicando minhas habilidades em:
 
